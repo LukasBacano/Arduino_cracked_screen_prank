@@ -1,9 +1,3 @@
-Below is a forslag til en README.md, som du kan copy-paste direkte ind i dit GitHub-repo. Den beskriver kort projektet, indeholder dit kodeeksempel i et code block, og inkluderer et HTML-forsøg på at embedde YouTube-videoen (bemærk dog, at GitHub som udgangspunkt ikke altid tillader iframe-embeds – men linket virker under alle omstændigheder).
-
-⸻
-
-
-
 # Arduino Micro HID Keyboard (US Layout → Dansk tilpasning undervejs)
 
 Dette projekt demonstrerer, hvordan en [Arduino Micro](https://store.arduino.cc/products/arduino-micro) kan bruges som et USB HID-keyboard.  
@@ -20,20 +14,14 @@ Sådan virker det
 	3.	Dansk kortlægning (in progress): Jeg arbejder på at finjustere koden, så danske tegn (Æ, Ø, Å, specialtegn osv.) bliver printet korrekt.
 	4.	Afspiller YouTube-link: Ved opstart åbnes en webbrowser (Spotlight på Mac, CMD+SPACE) og navigerer til https://www.youtube.com/watch?v=uKisdcdVRl8. Derefter trykkes der på f for fuldskærm.
 
-Video (YouTube Embed Forsøg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uKisdcdVRl8" frameborder="0" allowfullscreen>
-</iframe>
-
-
-Hvis ovenstående embed ikke vises (GitHub understøtter ofte ikke iframes), kan du bruge dette link:
+Se videoen på forhånd på dette link:
 https://www.youtube.com/watch?v=uKisdcdVRl8
 
 ⸻
 
 TODO
 	•	Danske specialtegn: Implementere korrekt mapping for Ø, Æ, Å og specialtegn (+, -, :, ?, € osv.) i koden.
-	•	Bedre kompatibilitet: Tilføje support for både Mac og Windows i forhold til åbning af browser/søgefelt.
 
 God fornøjelse!
 
