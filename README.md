@@ -15,8 +15,9 @@ Sådan virker det
 	4.	Afspiller YouTube-link: Ved opstart åbnes en webbrowser (Spotlight på Mac, CMD+SPACE) og navigerer til https://www.youtube.com/watch?v=uKisdcdVRl8. Derefter trykkes der på f for fuldskærm.
 
 
-Se videoen på forhånd på dette link:
-https://www.youtube.com/watch?v=uKisdcdVRl8
+Se videoen på forhånd på dette link: 	https://www.youtube.com/watch?v=uKisdcdVRl8
+Scriptet i aktion på dette link:    	 https://www.youtube.com/watch?v=xOxPFkAW95Y
+
 
 ⸻
 
